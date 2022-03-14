@@ -1,2 +1,2 @@
-# OPRA
-Odorant Pattern Recognition Algorithm
+# OPERA
+Odorant Pattern Emulation & Recognition Algorithm
